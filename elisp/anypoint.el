@@ -1,6 +1,20 @@
+;;; anypoint.el --- Minor mode to operate Anypoint Pltform (MuleSoft)
+;;
+;; GPL2
+;; https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt
+
+;; Author: Tsutomu Miyashita <myst3m@gmail.com>
+;; Maintainer: Tsutomu Miyashita <myst3m@gmail.com>
+;; Created: 10 Aug 2022
+;; Keywords: Anypoint 
+;; Package-Version: 20220810.0001
+;; Package-Commit: SNAPSHOT
+
 ;; This library aims to operate Anypoint Platform via the management API.
-;; Please vist https://anypoint.mulesoft.com/exchange/portals/anypoint-platform/
-;; to check more
+;; Please vist the following site to check more.
+;;
+;; https://anypoint.mulesoft.com/exchange/portals/anypoint-platform/
+;; 
 
 
 ;; -*- lexical-binding: t -*-
